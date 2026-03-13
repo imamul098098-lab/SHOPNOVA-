@@ -1,0 +1,5 @@
+shopnova-ecommerce/
+├── frontend/                 # Next.js + React + Tailwind
+├── backend/                  # Node.js + Express + MongoDB
+├── package.json
+└── README.md
